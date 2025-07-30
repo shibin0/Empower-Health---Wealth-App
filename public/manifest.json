@@ -1,0 +1,65 @@
+{
+  "name": "Empower - Health & Wealth Literacy",
+  "short_name": "Empower",
+  "description": "Your personal health and wealth literacy companion for urban Indian youth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#030213",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDgiIGZpbGw9InVybCgjZ3JhZGllbnQwX2xpbmVhcl8xXzEpIi8+CjxwYXRoIGQ9Ik05NiA2NEMxMDQuODM3IDY0IDExMiA3MS4xNjMgMTEyIDgwVjExMkMxMTIgMTIwLjgzNyAxMDQuODM3IDEyOCA5NiAxMjhDODcuMTYzIDEyOCA4MCA1MC44MzcgODAgMTEyVjgwQzgwIDcxLjE2MyA4Ny4xNjMgNjQgOTYgNjRaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNjQgOTZDNjQgODcuMTYzIDcxLjE2MyA4MCA4MCA4MEgxMTJDMTIwLjgzNyA4MCAxMjggODcuMTYzIDEyOCA5NkMxMjggMTA0LjgzNyAxMjAuODM3IDExMiAxMTIgMTEySDgwQzcxLjE2MyAxMTIgNjQgMTA0LjgzNyA2NCA5NloiIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuOCIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudDBfbGluZWFyXzFfMSIgeDE9IjAiIHkxPSIwIiB4Mj0iMTkyIiB5Mj0iMTkyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiMzQjgyRjYiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOUMzNUY2Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTI4IiBmaWxsPSJ1cmwoI2dyYWRpZW50MF9saW5lYXJfMV8xKSIvPgo8cGF0aCBkPSJNMjU2IDE3MkMyODEuNDA1IDE3MiAzMDIgMTkyLjU5NSAzMDIgMjE4VjI5NEMzMDIgMzE5LjQwNSAyODEuNDA1IDM0MCAyNTYgMzQwQzIzMC41OTUgMzQwIDIxMCAzMTkuNDA1IDIxMCAyOTRWMjE4QzIxMCAxOTIuNTk1IDIzMC41OTUgMTcyIDI1NiAxNzJaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTcyIDI1NkMxNzIgMjMwLjU5NSAxOTIuNTk1IDIxMCAyMTggMjEwSDI5NEMzMTkuNDA1IDIxMCAzNDAgMjMwLjU5NSAzNDAgMjU2QzM0MCAyODEuNDA1IDMxOS40MDUgMzAyIDI5NCAzMDJIMjE4QzE5Mi41OTUgMzAyIDE3MiAyODEuNDA1IDE3MiAyNTZaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjgiLz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZGllbnQwX2xpbmVhcl8xXzEiIHgxPSIwIiB5MT0iMCIgeDI9IjUxMiIgeTI9IjUxMiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjM0I4MkY2Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzlDMzVGNiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "finance", "education", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzkwIiBoZWlnaHQ9IjY5NCIgdmlld0JveD0iMCAwIDM5MCA2OTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzOTAiIGhlaWdodD0iNjk0IiByeD0iMjQiIGZpbGw9IiNGOEZBRkMiLz4KPHJlY3QgeD0iMTYiIHk9IjY0IiB3aWR0aD0iMzU4IiBoZWlnaHQ9IjI0MCIgcng9IjEyIiBmaWxsPSJ3aGl0ZSIvPgo8dGV4dCB4PSIxOTUiIHk9IjE4NCIgZmlsbD0iIzAzMDIxMyIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI0IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RW1wb3dlcjwvdGV4dD4KPHRleHQgeD0iMTk1IiB5PSIyMTIiIGZpbGw9IiM3MTcxODIiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SGVhbHRoICYgV2VhbHRoIExpdGVyYWN5PC90ZXh0Pgo8L3N2Zz4=",
+      "sizes": "390x694",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Daily Tasks",
+      "short_name": "Tasks",
+      "description": "View your daily health and wealth tasks",
+      "url": "/?shortcut=tasks",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTFMMTIgMTRMMjIgNCIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMjEgMTJWMTlBMiAyIDAgMCAxIDE5IDIxSDVBMiAyIDAgMCAxIDMgMTlWNUEyIDIgMCAwIDEgNSAzSDExIiBzdHJva2U9IiMzQjgyRjYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPg==",
+          "sizes": "24x24"
+        }
+      ]
+    },
+    {
+      "name": "Take Quiz",
+      "short_name": "Quiz",
+      "description": "Test your knowledge with interactive quizzes",
+      "url": "/?shortcut=quiz",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iIzlDMzVGNiIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik05LjA5IDlBMyAzIDAgMCAxIDE1IDlIMTNBMSAxIDAgMCAwIDEyIDEwVjEyLjVBMSAxIDAgMCAwIDEzIDEzLjVIMTUiIHN0cm9rZT0iIzlDMzVGNiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTEyIDE3SDE2IiBzdHJva2U9IiM5QzM1RjYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPg==",
+          "sizes": "24x24"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
+}
